@@ -12,14 +12,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] HTML
 - [x] CSS 
 - [x] Javascript - Funcionalidades basicas como criar e excluir tarefas e mudanças de estilo dinamicas
-- [ ] Javascript - Login
-- [ ] Javascript - Persistencia
+- [ ] Javascript - Persistencia e CRUD
 - [ ] Deploy em produção
-
-## ☕ Usando a lista de tarefas
-
-Para adicionar tarefas basta digitar o nome da tarefa no campo superior e pressionar enter.
-Para excluir 1 tarefa especifica basta pressionar o X a direita, e caso queira apagar todas as tarefas basta pressionar na lixeira.
 
 ## 👨‍💻 Desenvolvido por:
 
