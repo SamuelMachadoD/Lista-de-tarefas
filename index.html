@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tarefas</title>
+    <link rel="shortcut icon" href="/assets/Icone.png" type="assets/x-icon" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <main>
+      <section class="titulo-container">
+        <h1>Tarefas</h1>
+        <button class="botao-acao" id="btnExcluirTudo">
+          <img class="trash-can" src="./assets/trash-can.png" />
+        </button>
+      </section>
+
+      <section class="container-lista">
+        <input
+          type="text"
+          id="lista-input-nome"
+          placeholder="Adicionar um item..."
+        />
+        <ul id="lista-1" class="lista-fazendo"></ul>
+        <hr />
+        <ul id="lista-2"></ul>
+      </section>
+    </main>
+    <script src="./js/main.js" type="module"></script>
+  </body>
+</html>
