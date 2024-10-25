@@ -16,15 +16,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Javascript - Persistencia
 - [ ] Deploy em produção
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
-
 ## ☕ Usando a lista de tarefas
 
 Para adicionar tarefas basta digitar o nome da tarefa no campo superior e pressionar enter.
